@@ -27,35 +27,37 @@
   <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
   
   <div align="left">
-    <h3>👨‍💻 𝓢𝓲𝓴𝓪𝓷𝓭𝓪𝓻 𝓘𝓻𝓯𝓪𝓷 | 𝓔𝓒𝓔 𝓞𝓷𝓰𝓲𝓷𝓮𝓮𝓻</h3>
-    <p>𝒫𝒶𝓈𝓈𝒾𝑜𝓃𝒶𝓉𝑒 𝒶𝒷𝑜𝓊𝓉 𝒷𝓇𝒾𝒹𝑔𝒾𝓃𝑔 𝓉𝒽𝑒 𝑔𝒶𝓅 𝒷𝑒𝓉𝓌𝑒𝑒𝓃 𝒽𝒶𝓇𝒹𝓌𝒶𝓇𝑒 𝒶𝓃𝒹 𝓈𝑜𝒻𝓉𝓌𝒶𝓇𝑒</p>
+    <h3>👨‍💻 Sikandar Irfan | ECE Engineer</h3>
+    <p>Passionate about bridging the gap between hardware and software</p>
     
     <details>
-    <summary>### 🎯 𝓔𝔁𝓹𝓮𝓻𝓽𝓲𝓼𝓮 (𝓒𝓵𝓲𝓬𝓴 𝓽𝓸 𝓮𝔁𝓹𝓪𝓷𝓭)</summary>
+    <summary>🎯 Expertise (Click to expand)</summary>
     
-    <div align="left">
-    🔧 **𝓗𝓪𝓻𝓭𝔀𝓪𝓻𝓮**
-    - 𝒞𝒾𝓇𝒸𝓊𝒾𝓉 𝒟𝑒𝓈𝒾𝑔𝓃
-    - 𝒫𝒞𝐵 𝐿𝒶𝓎𝑜𝓊𝓉
-    - 𝐸𝓂𝒷𝑒𝒹𝒹𝑒𝒹 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
-    
-    💻 **𝓢𝓸𝓯𝓽𝔀𝓪𝓻𝓮**
-    - 𝐸𝓣𝒽𝒾𝒸𝒶𝓁 𝐻𝒶𝒸𝓀𝒾𝓃𝑔
-    - 𝒜𝐼/𝑀𝐿
-    - 𝐿𝒾𝓃𝓊𝓍 𝒮𝓎𝓈𝓉𝑒𝓂𝓈
-    
-    ⚡ **𝓔𝓵𝓮𝓬𝓽𝓻𝓸𝓷𝓲𝓬𝓼**
-    - 𝑀𝒾𝒸𝓇𝑜𝒸𝑜𝓃𝓉𝓇𝑜𝓁𝓁𝑒𝓇𝓈
-    - 𝐹𝒫𝒢𝒜
-    - 𝐼𝑜𝒯 𝒮𝑜𝓁𝓊𝓽𝒾𝑜𝓃𝓈
-    
-    🌐 **𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼**: 𝐸𝓃𝑔𝓁𝒾𝓈𝒽, 𝐻𝒾𝓃𝒹𝒾
+    <div class="expertise-section">
+      
+      🔧 **Hardware**
+      - Circuit Design
+      - PCB Layout
+      - Embedded Systems
+      
+      💻 **Software**
+      - Ethical Hacking
+      - AI/ML
+      - Linux Systems
+      
+      ⚡ **Electronics**
+      - Microcontrollers
+      - FPGA
+      - IoT Solutions
+      
+      🌐 **Languages**: English, Hindi
+      
     </div>
     </details>
     
-    > "𝓛𝓮𝓽'𝓼 𝓫𝓾𝓲𝓵𝓭 𝓼𝓸𝓶𝓮𝓽𝓱𝓲𝓷𝓰 𝓪𝓶𝓪𝔃𝓲𝓷𝓰 𝓽𝓸𝓰𝓮𝓽𝓱𝓮𝓻!"
+    > "Let's build something amazing together!"
     
-    <sub>© 2024 Sikandar Irfan. All rights reserved. Unauthorized copying or reproduction of this profile is strictly prohibited.</sub>
+    <sub>2024 Sikandar Irfan. All rights reserved. Unauthorized copying or reproduction of this profile is strictly prohibited.</sub>
   </div>
 </div>
 
