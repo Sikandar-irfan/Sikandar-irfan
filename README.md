@@ -50,7 +50,7 @@
       - FPGA
       - IoT Solutions
       
-      🌐 **Languages**: English, Hindi
+      🌐 **Languages**: English, Hindi, Urdu, Tamil, Kannada
       
     </div>
     </details>
