@@ -118,11 +118,14 @@ me.say_hi()
   <a href="https://github.com/Sikandar-irfan/Quantum-Game">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Quantum-Game&theme=radical" alt="Quantum-Game" />
   </a>
-  
-  <!-- Dynamic Repository List -->
-  <div id="repositories">
-    <!-- GitHub Action will inject repository cards here -->
-  </div>
+
+  <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/Sikandar-irfan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Sikandar-irfan&theme=radical" alt="Sikandar-irfan" />
+  </a>
+  <a href="https://github.com/Sikandar-irfan/Ros2-Workshop-GAT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Ros2-Workshop-GAT&theme=radical" alt="Ros2-Workshop-GAT" />
+  </a>
 </div>
 
 ## 🌐 Connect with me
