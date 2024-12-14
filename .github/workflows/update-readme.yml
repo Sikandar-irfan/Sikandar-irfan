@@ -1,0 +1,121 @@
+name: Update README with Latest Repositories
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Runs every 12 hours
+  workflow_dispatch:  # Allows manual triggering
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - '.github/workflows/update-readme.yml'
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Update README with Latest Repositories
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs').promises;
+            
+            async function generateRepoSection() {
+              const { data: repos } = await github.rest.repos.listForUser({
+                username: 'sikandar-irfan',
+                sort: 'created',
+                direction: 'desc',
+                per_page: 6
+              });
+              
+              let repoSection = `## 🏆 Top Projects\n\n<div align="center">\n`;
+              
+              // Add Quantum Game as featured project
+              repoSection += `  <!-- Featured Project -->\n`;
+              repoSection += `  <a href="https://github.com/Sikandar-irfan/Quantum-Game">\n`;
+              repoSection += `    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Quantum-Game&theme=radical" alt="Quantum-Game" />\n`;
+              repoSection += `  </a>\n\n`;
+              
+              // Add other repositories
+              repoSection += `  <!-- Latest Repositories -->\n`;
+              for (const repo of repos) {
+                if (repo.name !== 'Quantum-Game' && !repo.fork && repo.name !== 'sikandar-irfan') {
+                  repoSection += `  <a href="${repo.html_url}">\n`;
+                  repoSection += `    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=${repo.name}&theme=radical" alt="${repo.name}" />\n`;
+                  repoSection += `  </a>\n`;
+                }
+              }
+              
+              repoSection += `</div>\n\n`;
+              return repoSection;
+            }
+            
+            try {
+              // Read the current README
+              const readmePath = 'README.md';
+              let readme = await fs.readFile(readmePath, 'utf8');
+              
+              // Generate new repository section
+              const newRepoSection = await generateRepoSection();
+              
+              // Replace the existing repository section
+              const regex = /## 🏆 Top Projects[\s\S]*?(?=##|$)/;
+              readme = readme.replace(regex, newRepoSection);
+              
+              // Write the updated README
+              await fs.writeFile(readmePath, readme);
+              
+              // Commit the changes
+              const { data: { sha } } = await github.rest.repos.getContent({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: readmePath
+              });
+              
+              await github.rest.repos.createOrUpdateFileContents({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                path: readmePath,
+                message: '🤖 Auto update repository section',
+                content: Buffer.from(readme).toString('base64'),
+                sha: sha,
+                committer: {
+                  name: 'GitHub Action',
+                  email: 'action@github.com'
+                },
+                author: {
+                  name: 'GitHub Action',
+                  email: 'action@github.com'
+                }
+              });
+            } catch (error) {
+              console.error('Error updating README:', error);
+              core.setFailed(error.message);
+            }
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: sikandar-irfan
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push Snake Animation
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
