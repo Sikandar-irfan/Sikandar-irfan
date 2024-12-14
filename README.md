@@ -23,26 +23,35 @@
 
 ## 💫 About Me
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-```python
-class SikandarIrfan:
-    def __init__(self):
-        self.name = "Sikandar Irfan"
-        self.role = "ECE Engineer"
-        self.expertise = {
-            "hardware": ["Circuit Design", "PCB Layout", "Embedded Systems"],
-            "software": ["Ethical Hacking", "AI/ML", "Linux"],
-            "electronics": ["Microcontrollers", "FPGA", "IoT"]
-        }
-        self.language_spoken = ["hi_IN", "en_US"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = SikandarIrfan()
-me.say_hi()
-```
+<div align="center">
+  <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+  
+  <div align="left">
+    <h3>👨‍💻 Sikandar Irfan | ECE Engineer</h3>
+    <p>Passionate about bridging the gap between hardware and software</p>
+    
+    ### 🎯 Expertise
+    
+    🔧 **Hardware**
+    - Circuit Design
+    - PCB Layout
+    - Embedded Systems
+    
+    💻 **Software**
+    - Ethical Hacking
+    - AI/ML
+    - Linux Systems
+    
+    ⚡ **Electronics**
+    - Microcontrollers
+    - FPGA
+    - IoT Solutions
+    
+    🌐 **Languages**: English, Hindi
+    
+    > "Let's build something amazing together!"
+  </div>
+</div>
 
 ## 🛠️ Skills & Expertise
 
