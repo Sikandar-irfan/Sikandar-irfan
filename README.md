@@ -29,34 +29,25 @@
   <div align="left">
     <h3>👨‍💻 Sikandar Irfan | ECE Engineer</h3>
     <p>Passionate about bridging the gap between hardware and software</p>
-    
     <details>
     <summary>🎯 Expertise (Click to expand)</summary>
-    
     <div class="expertise-section">
-      
       🔧 **Hardware**
       - Circuit Design
       - PCB Layout
       - Embedded Systems
-      
       💻 **Software**
       - Ethical Hacking
       - AI/ML
       - Linux Systems
-      
       ⚡ **Electronics**
       - Microcontrollers
       - FPGA
       - IoT Solutions
-      
       🌐 **Languages**: English, Hindi, Urdu, Tamil, Kannada
-      
     </div>
     </details>
-    
     > "Let's build something amazing together!"
-    
     <sub>2024 Sikandar Irfan. All rights reserved. Unauthorized copying or reproduction of this profile is strictly prohibited.</sub>
   </div>
 </div>
