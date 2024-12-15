@@ -137,6 +137,9 @@
   </a>
 
   <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/Java-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Java-project&theme=radical" alt="Java-project" />
+  </a>
   <a href="https://github.com/Sikandar-irfan/Sikandar-irfan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Sikandar-irfan&theme=radical" alt="Sikandar-irfan" />
   </a>
