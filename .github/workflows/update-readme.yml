@@ -2,7 +2,7 @@ name: Update README with Latest Repositories
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:  # Allows manual triggering
   push:
     branches:
@@ -34,7 +34,7 @@ jobs:
             const fs = require('fs').promises;
             
             async function generateRepoSection() {
-              const { data: repos } = await github.rest.repos.listForUser({
+              const { data: repos } = await github.rest.repos.listForUser ({
                 username: 'sikandar-irfan',
                 sort: 'created',
                 direction: 'desc',
