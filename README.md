@@ -150,9 +150,6 @@
   <a href="mailto:sikandarirfan150162@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://github.com/Sikandar-irfan">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
 </div>
 
 ## 📈 Activity Graph
