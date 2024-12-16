@@ -48,7 +48,9 @@
     </div>
     </details>
     > "Let's build something amazing together!"
-    <sub>2024 Sikandar Irfan. All rights reserved. Unauthorized copying or reproduction of this profile is strictly prohibited.</sub>
+    </div>
+      <b>2024 Sikandar Irfan. All rights reserved. Unauthorized copying or reproduction of this profile is strictly prohibited.</b>
+    </div>
   </div>
 </div>
 
