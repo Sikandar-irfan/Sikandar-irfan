@@ -2,7 +2,7 @@ name: Update README with Latest Repositories
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
+    - cron: '0 */8 * * *'  # Runs every 8 hour once
   workflow_dispatch:  # Allows manual triggering
   push:
     branches:
