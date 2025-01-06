@@ -103,7 +103,7 @@
 
 ## 🚀 Current Focus
 
-- 🔭 Working on **Advanced Ethical Hacking Projects**
+- 🔭 Working and Learning **Advanced Ethical Hacking Projects**
 - 🌱 Learning **Advanced AI/ML Techniques**
 - 👯 Looking to collaborate on **Hardware & Software Projects**
 - 🤝 Open to **Innovative Tech Solutions**
