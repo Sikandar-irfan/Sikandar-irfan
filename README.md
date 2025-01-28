@@ -130,6 +130,9 @@
   </a>
 
   <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/Temp-mail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Temp-mail&theme=radical" alt="Temp-mail" />
+  </a>
   <a href="https://github.com/Sikandar-irfan/Samsung-RISC-V">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Samsung-RISC-V&theme=radical" alt="Samsung-RISC-V" />
   </a>
