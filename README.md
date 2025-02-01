@@ -145,9 +145,6 @@
   <a href="https://github.com/Sikandar-irfan/Sikandar-irfan">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Sikandar-irfan&theme=radical" alt="Sikandar-irfan" />
   </a>
-  <a href="https://github.com/Sikandar-irfan/Ros2-Workshop-GAT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Ros2-Workshop-GAT&theme=radical" alt="Ros2-Workshop-GAT" />
-  </a>
 </div>
 
 ## 🌐 Connect with me
