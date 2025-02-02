@@ -130,6 +130,9 @@
   </a>
 
   <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/VSD-WCH-Utility">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=VSD-WCH-Utility&theme=radical" alt="VSD-WCH-Utility" />
+  </a>
   <a href="https://github.com/Sikandar-irfan/Temp-mail">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Temp-mail&theme=radical" alt="Temp-mail" />
   </a>
@@ -141,9 +144,6 @@
   </a>
   <a href="https://github.com/Sikandar-irfan/Java-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Java-project&theme=radical" alt="Java-project" />
-  </a>
-  <a href="https://github.com/Sikandar-irfan/Sikandar-irfan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Sikandar-irfan&theme=radical" alt="Sikandar-irfan" />
   </a>
 </div>
 
