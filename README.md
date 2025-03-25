@@ -146,7 +146,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sikandar-irfan&theme=radical" height="150" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com/?user=sikandar-irfan&theme=react&hide_border=true&background=00000000&stroke=0D1117" height="180" alt="streak graph"/>
 </div>
 
 ## 🌐 Connect with me
