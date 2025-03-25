@@ -110,16 +110,7 @@
 - 💬 Ask me about **Electronics, Hardware Design, Ethical Hacking, Linux, AI**
 - 📫 Reach me at: **sikandarirfan150162@gmail.com**
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sikandar-irfan&show_icons=true&theme=radical" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikandar-irfan&layout=compact&theme=radical" height="150" alt="languages graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sikandar-irfan&theme=radical" height="150" alt="streak graph"/>
-</div>
 
 ## 🏆 Top Projects
 
@@ -145,6 +136,17 @@
   <a href="https://github.com/Sikandar-irfan/Java-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Java-project&theme=radical" alt="Java-project" />
   </a>
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sikandar-irfan&show_icons=true&theme=radical" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sikandar-irfan&layout=compact&theme=radical" height="150" alt="languages graph"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=sikandar-irfan&theme=radical" height="150" alt="streak graph"/>
 </div>
 
 ## 🌐 Connect with me
