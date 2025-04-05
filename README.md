@@ -121,6 +121,9 @@
   </a>
 
   <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/Project-SAMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Project-SAMS&theme=radical" alt="Project-SAMS" />
+  </a>
   <a href="https://github.com/Sikandar-irfan/VSD-WCH-Utility">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=VSD-WCH-Utility&theme=radical" alt="VSD-WCH-Utility" />
   </a>
@@ -132,9 +135,6 @@
   </a>
   <a href="https://github.com/Sikandar-irfan/GAT-RISC-V-Roadshow">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=GAT-RISC-V-Roadshow&theme=radical" alt="GAT-RISC-V-Roadshow" />
-  </a>
-  <a href="https://github.com/Sikandar-irfan/Java-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Java-project&theme=radical" alt="Java-project" />
   </a>
 </div>
 
