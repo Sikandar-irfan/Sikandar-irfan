@@ -121,6 +121,9 @@
   </a>
 
   <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/prd-generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=prd-generator&theme=radical" alt="prd-generator" />
+  </a>
   <a href="https://github.com/Sikandar-irfan/Project-SAMS">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Project-SAMS&theme=radical" alt="Project-SAMS" />
   </a>
@@ -132,9 +135,6 @@
   </a>
   <a href="https://github.com/Sikandar-irfan/Samsung-RISC-V">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Samsung-RISC-V&theme=radical" alt="Samsung-RISC-V" />
-  </a>
-  <a href="https://github.com/Sikandar-irfan/GAT-RISC-V-Roadshow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=GAT-RISC-V-Roadshow&theme=radical" alt="GAT-RISC-V-Roadshow" />
   </a>
 </div>
 
