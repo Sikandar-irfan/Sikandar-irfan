@@ -104,6 +104,9 @@
   </a>
 
   <!-- Latest Repositories -->
+  <a href="https://github.com/Sikandar-irfan/Drishti-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Drishti-frontend&theme=radical" alt="Drishti-frontend" />
+  </a>
   <a href="https://github.com/Sikandar-irfan/CyberEncrypt">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=CyberEncrypt&theme=radical" alt="CyberEncrypt" />
   </a>
@@ -115,9 +118,6 @@
   </a>
   <a href="https://github.com/Sikandar-irfan/Temp-mail">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Temp-mail&theme=radical" alt="Temp-mail" />
-  </a>
-  <a href="https://github.com/Sikandar-irfan/Samsung-RISC-V">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Samsung-RISC-V&theme=radical" alt="Samsung-RISC-V" />
   </a>
 </div>
 
