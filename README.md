@@ -104,9 +104,6 @@
   </a>
 
   <!-- Latest Repositories -->
-  <a href="https://github.com/Sikandar-irfan/Noxon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Noxon&theme=radical" alt="Noxon" />
-  </a>
   <a href="https://github.com/Sikandar-irfan/Drishti-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Drishti-frontend&theme=radical" alt="Drishti-frontend" />
   </a>
