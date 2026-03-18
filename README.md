@@ -107,14 +107,14 @@
   <a href="https://github.com/Sikandar-irfan/Drishti-frontend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Drishti-frontend&theme=radical" alt="Drishti-frontend" />
   </a>
-  <a href="https://github.com/Sikandar-irfan/CyberEncrypt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=CyberEncrypt&theme=radical" alt="CyberEncrypt" />
-  </a>
   <a href="https://github.com/Sikandar-irfan/prd-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=prd-generator&theme=radical" alt="prd-generator" />
   </a>
   <a href="https://github.com/Sikandar-irfan/VSD-WCH-Utility">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=VSD-WCH-Utility&theme=radical" alt="VSD-WCH-Utility" />
+  </a>
+  <a href="https://github.com/Sikandar-irfan/Temp-mail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sikandar-irfan&repo=Temp-mail&theme=radical" alt="Temp-mail" />
   </a>
 </div>
 
